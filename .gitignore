@@ -1,0 +1,25 @@
+# MISC
+.DS_Store
+# .vscode
+.env
+
+# FOLDERS
+/database
+/uploads
+
+# LOCKS, DEBUG & LOGS
+*.log
+package-lock.json
+
+# dependencies
+node_modules
+
+# production
+/build
+/dist
+
+# coverages
+/coverage
+
+#docker-compose file
+docker-compose.override.yml
